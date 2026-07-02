@@ -67,7 +67,7 @@ The dataset is intended for:
 
 ## Citation
 If you use this dataset, please cite the associated publication and the Zenodo
-dataset DOI (to be assigned upon publication).
+dataset DOI https://doi.org/10.5281/zenodo.21128283.
 
 ## License
 This dataset is released under the Creative Commons Attribution 4.0
